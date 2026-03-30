@@ -1,0 +1,12 @@
+# Placeholder for Java sources
+# Package structure:
+# com.buzzer.config/
+# com.buzzer.auth/
+# com.buzzer.user/
+# com.buzzer.conversation/
+# com.buzzer.message/
+# com.buzzer.group/
+# com.buzzer.crypto/
+# com.buzzer.media/
+# com.buzzer.notification/
+# com.buzzer.common/

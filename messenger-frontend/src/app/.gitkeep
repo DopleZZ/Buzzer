@@ -1,0 +1,9 @@
+# Placeholder for Angular sources
+# Structure:
+# src/app/core/           - AuthGuard, Interceptors, Services
+# src/app/shared/         - UI components, pipes, directives
+# src/app/features/auth/  - Login, Register
+# src/app/features/chat/  - ChatList, ChatView
+# src/app/features/group/ - GroupCreate, GroupInfo
+# src/app/features/profile/
+# src/app/features/settings/

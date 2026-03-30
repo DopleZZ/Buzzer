@@ -1,0 +1,36 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Java
+*.class
+*.jar
+*.war
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+.angular/
+
+# Environment
+.env
+.env.local
+.env.*.local
+application-local.yml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+*.lcov
+
+# Build
+build/
+out/

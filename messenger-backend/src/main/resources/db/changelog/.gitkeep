@@ -1,0 +1,4 @@
+# Placeholder for Liquibase changesets
+# Structure:
+# - YYYYMMDD-HHMM-description.yml (individual changesets)
+# - db.changelog-master.yml (includes all changesets)
